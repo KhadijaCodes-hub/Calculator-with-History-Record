@@ -22,13 +22,13 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/KhadijaCodes-hub/Calculator-with-History-Record.git
-cd simple-calculator-with-history
+cd calculator-with-history-record
 ````
 
 Run the program:
 
 ```bash
-python calculator.py
+python calculator-with-history.py
 ```
 
 ---
@@ -66,7 +66,7 @@ GoodBye
 ```
 📁 simple-calculator-with-history
 │
-├── calculator.py     # Main program
+├── calculator-with-history.py     # Main program
 ├── history.txt       # Stores calculation history
 └── README.md         # Project documentation
 ```
